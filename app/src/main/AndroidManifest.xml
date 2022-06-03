@@ -27,6 +27,9 @@
         <activity
             android:name=".MovieDetailsActivity"
             android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MOVIEDETAILS" />
+            </intent-filter>
         </activity>
     </application>
 

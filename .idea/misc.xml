@@ -5,7 +5,8 @@
       <map>
         <entry key="../../Library/Android/sdk/platforms/android-32/data/res/layout-land/item_movie.xml" value="0.1" />
         <entry key="app/src/main/res/layout-land/activity_main.xml" value="0.11510416666666666" />
-        <entry key="app/src/main/res/layout-land/item_movie.xml" value="0.5142410278320313" />
+        <entry key="app/src/main/res/layout-land/activity_movie_details.xml" value="0.28406169665809766" />
+        <entry key="app/src/main/res/layout-land/item_movie.xml" value="0.10570824524312897" />
         <entry key="app/src/main/res/layout-port/activity_movie_details.xml" value="0.10009057971014493" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.19144287109375002" />
         <entry key="app/src/main/res/layout/activity_movie_details.xml" value="0.335" />
